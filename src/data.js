@@ -29,7 +29,7 @@ const quizData = [
           "merge()",
           "concat()",
           "append()"],
-          correctAnswer:"cancat()"
+          correctAnswer:"concat()"
       },
       {
         'question':"Which of the following function of Array object returns true if every element in this array satisfies the provided testing function?",
